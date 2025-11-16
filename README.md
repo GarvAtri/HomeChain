@@ -9,7 +9,8 @@
 
 HomeChain revolutionizes the rental market by providing transparent, secure, and trustless property listings and lease agreements through smart contracts on the Ethereum blockchain.
 
-![HomeChain Hero](https://via.placeholder.com/1200x600/1e40af/ffffff?text=HomeChain+-+Blockchain+Rentals)
+![HomeChain Hero](<img width="1898" height="971" alt="image" src="https://github.com/user-attachments/assets/b1121106-92a7-4e1e-9f3c-63b745aecc41" />)
+
 
 ---
 
