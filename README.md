@@ -434,6 +434,7 @@ Need help? Here's how to get support:
 <div align="center">
 
 **Made with ❤️ for the Web3 Community**
+
 ⭐ Star us on GitHub — it helps!
 
 </div>
