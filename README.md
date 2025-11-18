@@ -418,16 +418,16 @@ Need help? Here's how to get support:
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](https://via.placeholder.com/800x400/1e40af/ffffff?text=Landing+Page+Screenshot)
+https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/HomeChain.png
 
 ### Property Listings
-![Property Listings](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Property+Listings+Screenshot)
+https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/Listings.png
 
 ### Interactive Map
-![Interactive Map](https://via.placeholder.com/800x400/10b981/ffffff?text=Interactive+Map+Screenshot)
+https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/SatelliteMap.png
 
 ### Property Details
-![Property Details](https://via.placeholder.com/800x400/6366f1/ffffff?text=Property+Details+Screenshot)
+https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/ConnectWallet.png
 
 ---
 
