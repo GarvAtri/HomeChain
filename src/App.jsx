@@ -1295,7 +1295,7 @@ function InteractiveMapModal({ properties, onClose, onPropertyClick }) {
     } else {
       // Load Google Maps script if not already loaded
       const script = document.createElement('script');
-      script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDI1TtWwU7TYPunAsm48kX6hFxYIyms5Zo';
+      script.src = 'https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE';
       script.async = true;
       script.onload = () => initMap();
       document.head.appendChild(script);
