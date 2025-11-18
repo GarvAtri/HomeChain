@@ -434,9 +434,6 @@ Need help? Here's how to get support:
 <div align="center">
 
 **Made with ❤️ for the Web3 Community**
-
-[Website](https://homechain.example.com) • [Documentation](https://docs.homechain.example.com) • [Demo](https://demo.homechain.example.com)
-
 ⭐ Star us on GitHub — it helps!
 
 </div>
