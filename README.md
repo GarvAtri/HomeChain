@@ -418,16 +418,16 @@ Need help? Here's how to get support:
 ## 📸 Screenshots
 
 ### Landing Page
-https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/HomeChain.png
+<img width="1898" height="971" alt="image" src="https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/HomeChain.png"/>
 
 ### Property Listings
-https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/Listings.png
+<img width="1898" height="971" alt="image" src="https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/Listings.png"/>
 
 ### Interactive Map
-https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/SatelliteMap.png
+<img width="1898" height="971" alt="image" src="https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/SatelliteMap.png"/>
 
 ### Property Details
-https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/ConnectWallet.png
+<img width="1898" height="971" alt="image" src="https://github.com/GarvAtri/HomeChain/blob/0e24d08fa628218a4acd06fc685ab37a6f2a15c3/ConnectWallet.png"/>
 
 ---
 
