@@ -8,7 +8,7 @@
 **A decentralized rental property platform for West Lafayette, Indiana, powered by blockchain technology.**
 
 HomeChain revolutionizes the rental market by providing transparent, secure, and trustless property listings and lease agreements through smart contracts on the Ethereum blockchain.
-[<img width="1898" height="971" alt="image" src="https://github.com/user-attachments/assets/b1121106-92a7-4e1e-9f3c-63b745aecc41" />]
+<img width="1898" height="971" alt="image" src="https://github.com/user-attachments/assets/b1121106-92a7-4e1e-9f3c-63b745aecc41" />
 
 ---
 
